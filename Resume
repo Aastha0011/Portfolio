@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Aastha Vaish - Resume</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 50px auto;
+            background-color: #ffffff;
+            padding: 40px 50px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            border-radius: 10px;
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 30px;
+        }
+
+        .name {
+            font-size: 32px;
+            font-weight: bold;
+            color: #2c3e50;
+        }
+
+        .contact-info {
+            font-size: 14px;
+            color: #555;
+            margin-top: 8px;
+        }
+
+        .section {
+            margin-bottom: 35px;
+        }
+
+        h2 {
+            font-size: 20px;
+            color: #2c3e50;
+            border-bottom: 2px solid #ddd;
+            padding-bottom: 5px;
+            margin-bottom: 15px;
+        }
+
+        p {
+            font-size: 15px;
+            color: #333;
+            line-height: 1.6;
+        }
+
+        ul {
+            list-style-type: disc;
+            padding-left: 20px;
+        }
+
+        li {
+            font-size: 15px;
+            color: #333;
+            margin-bottom: 8px;
+        }
+
+        a {
+            color: #2980b9;
+            text-decoration: none;
+        }
+
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <div class="name">Aastha Vaish</div>
+        <div class="contact-info">
+            <p>Email: <a href="mailto:aasthavaish30@gmail.com">aasthavaish30@gmail.com</a></p>
+            <p>Location: Uttar Pradesh, India</p>
+        </div>
+    </div>
+
+    <div class="section">
+        <h2>Objective</h2>
+        <p>
+            Enthusiastic and detail-oriented B.Tech student at Dr. A.P.J. Abdul Kalam Technical University (AKTU), graduating in 2028. 
+            Passionate about programming, with a solid foundation in C and C++. Eager to apply theoretical knowledge in real-world scenarios, 
+            contribute to team projects, and continuously improve both technical and interpersonal skills in a professional environment.
+        </p>
+    </div>
+
+    <div class="section">
+        <h2>Education</h2>
+        <ul>
+            <li>
+                <strong>Bachelor of Technology (B.Tech)</strong><br>
+                Dr. A.P.J. Abdul Kalam Technical University (AKTU), Uttar Pradesh<br>
+                Expected Graduation: 2028
+            </li>
+        </ul>
+    </div>
+
+    <div class="section">
+        <h2>Skills</h2>
+        <ul>
+            <li>C Programming</li>
+            <li>C++ Programming</li>
+            <li>Basic Data Structures and Algorithms</li>
+            <li>Problem Solving and Logical Thinking</li>
+        </ul>
+    </div>
+
+</div>
+
+</body>
+</html>
